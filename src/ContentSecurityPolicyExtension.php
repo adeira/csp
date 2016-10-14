@@ -1,6 +1,6 @@
 <?php
 
-namespace Mrtnzlml;
+namespace Adeira;
 
 /**
  * @see https://www.w3.org/TR/CSP/

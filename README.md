@@ -1,6 +1,6 @@
 # Content Security Policy for Nette Framework
 
-[![Build Status](https://travis-ci.org/mrtnzlml/csp.svg?branch=master)](https://travis-ci.org/mrtnzlml/csp)
+[![Build Status](https://travis-ci.org/adeira/csp.svg?branch=master)](https://travis-ci.org/adeira/csp)
 
 Please read this:
 - https://www.w3.org/TR/CSP/
@@ -11,7 +11,7 @@ This library introduces simple CSP extension for DIC which help you to secure yo
 
 ```
 extensions:
-  csp: Mrtnzlml\ContentSecurityPolicyExtension
+  csp: Adeira\ContentSecurityPolicyExtension
 ```
 
 There are a lot of configuration options. These are the default ones:

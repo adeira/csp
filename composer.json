@@ -1,5 +1,5 @@
 {
-  "name": "mrtnzlml/csp",
+  "name": "adeira/csp",
   "type": "library",
   "license": [
     "BSD-3-Clause",
@@ -16,12 +16,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Mrtnzlml\\": "src/"
+      "Adeira\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Mrtnzlml\\Tests\\": "tests/"
+      "Adeira\\Tests\\": "tests/"
     }
   }
 }

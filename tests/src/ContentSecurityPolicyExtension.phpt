@@ -1,8 +1,8 @@
 <?php
 
-namespace Mrtnzlml\Tests;
+namespace Adeira\Tests;
 
-use Mrtnzlml\ContentSecurityPolicyExtension as Csp;
+use Adeira\ContentSecurityPolicyExtension as Csp;
 use Nette\DI\Compiler;
 use Nette\PhpGenerator\ClassType;
 use Nette\Utils\Validators;
